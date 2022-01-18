@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/perssone/static/css/main.e8ebf589.css",
+    "main.js": "/perssone/static/js/main.a4f62f21.js",
+    "static/media/yeet.jpg": "/perssone/static/media/yeet.1edfd5013dec06a89026.jpg",
+    "static/media/donita.jpeg": "/perssone/static/media/donita.818655610d8a6601b767.jpeg",
+    "static/media/mar.jpeg": "/perssone/static/media/mar.0dcbac75b3601317a74a.jpeg",
+    "static/media/cubanete.jpg": "/perssone/static/media/cubanete.882638ea56574d1de2b3.jpg",
+    "static/media/jair.jpeg": "/perssone/static/media/jair.d7e725c5e63d95dd3999.jpeg",
+    "index.html": "/perssone/index.html",
+    "main.e8ebf589.css.map": "/perssone/static/css/main.e8ebf589.css.map",
+    "main.a4f62f21.js.map": "/perssone/static/js/main.a4f62f21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8ebf589.css",
+    "static/js/main.a4f62f21.js"
+  ]
+}
