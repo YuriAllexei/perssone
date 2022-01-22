@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/perssone/static/css/main.f09634e6.css",
-    "main.js": "/perssone/static/js/main.95809001.js",
+    "main.css": "/perssone/static/css/main.44544656.css",
+    "main.js": "/perssone/static/js/main.354d8b05.js",
     "static/media/yeet.jpg": "/perssone/static/media/yeet.1edfd5013dec06a89026.jpg",
     "static/media/donita.jpeg": "/perssone/static/media/donita.818655610d8a6601b767.jpeg",
     "static/media/mar.jpeg": "/perssone/static/media/mar.0dcbac75b3601317a74a.jpeg",
+    "static/media/Jair.jpeg": "/perssone/static/media/Jair.2e97b5227fd7f4fba429.jpeg",
     "static/media/cubanete.jpg": "/perssone/static/media/cubanete.882638ea56574d1de2b3.jpg",
-    "static/media/jair.jpeg": "/perssone/static/media/jair.d7e725c5e63d95dd3999.jpeg",
+    "static/media/erick.jpeg": "/perssone/static/media/erick.d7e725c5e63d95dd3999.jpeg",
+    "static/media/logo.jpeg": "/perssone/static/media/logo.41b8db18bba3555b37ec.jpeg",
     "index.html": "/perssone/index.html",
-    "main.f09634e6.css.map": "/perssone/static/css/main.f09634e6.css.map",
-    "main.95809001.js.map": "/perssone/static/js/main.95809001.js.map"
+    "main.44544656.css.map": "/perssone/static/css/main.44544656.css.map",
+    "main.354d8b05.js.map": "/perssone/static/js/main.354d8b05.js.map"
   },
   "entrypoints": [
-    "static/css/main.f09634e6.css",
-    "static/js/main.95809001.js"
+    "static/css/main.44544656.css",
+    "static/js/main.354d8b05.js"
   ]
 }
